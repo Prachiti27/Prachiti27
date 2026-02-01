@@ -53,6 +53,10 @@
   <br/>
   <strong>KiteLLM : </strong>
   KiteLLM is a Python-based implementation of a large language model built from scratch to explore transformer internals, attention mechanisms, and model training workflows.
+  <br/>
+  <br/>
+  <strong>ML algorithms : </strong>
+  Implemented machine learning and deep learning algorithms from scratch using python and numpy.
 </p>
 <hr/>
 <p align="center">
