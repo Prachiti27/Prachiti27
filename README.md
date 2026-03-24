@@ -11,7 +11,7 @@
 <hr style="height:4px; background-color:#000; border:none;">
 <h3>🔹Go-To Stack</h3>
 <p>
-  <strong>Languages:</strong> C++, Python, JavaScript, TypeScript, Java, SQL<br/>
+  <strong>Languages:</strong> C++, Python, JavaScript, TypeScript, SQL<br/>
   <strong>Frontend:</strong> HTML, CSS, React.js, Next.js, Tailwind CSS<br/>
   <strong>Backend:</strong> Node.js, Express, FastAPI<br/>
   <strong>Database:</strong> MongoDB, MySQL<br/>
