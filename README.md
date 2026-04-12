@@ -1,64 +1,71 @@
 <h1 align="center">Prachiti Kitey</h1>
 <p align="center">
-  AI engineer and Software Developer currently building from scratch
+  Backend • Systems • AI • Low-Level Engineering (for fun)
 </p>
+
 <h3 align="center">Connect With Me</h3>
 <p align="center">
   <a href="https://github.com/Prachiti27">GitHub</a> •
   <a href="https://www.linkedin.com/in/prachiti-kitey-24b348281/">LinkedIn</a> •
   <a href="mailto:prachitikitey86@gmail.com">Email</a>
 </p>
+
 <hr style="height:4px; background-color:#000; border:none;">
+
 <h3>🔹Go-To Stack</h3>
 <p>
-  <strong>Languages:</strong> C++, Python, JavaScript, TypeScript, SQL<br/>
+  <strong>Languages:</strong> C++, Go, Python, JavaScript, Java, SQL<br/>
   <strong>Frontend:</strong> HTML, CSS, React.js, Next.js, Tailwind CSS<br/>
   <strong>Backend:</strong> Node.js, Express, FastAPI<br/>
-  <strong>Database:</strong> MongoDB, MySQL<br/>
+  <strong>Database:</strong> MongoDB, MySQL, PostgreSQL<br/>
   <strong>AI:</strong> Machine Learning, Deep Learning, PyTorch, LLMs, GenAI, Agentic AI, RAG, Vector Databases<br/>
-  <strong>Tools:</strong> Git, GitHub, Docker
+  <strong>Tools:</strong> Git, GitHub, Docker, AWS
 </p>
+
 <hr/>
+
 <h3>🔹Projects</h3>
 <p>
-  <strong>PaperMind : </strong> 
-  AI-powered research paper summarizer that converts academic papers into structured summaries, including title, authors, abstract, and methodology, to support efficient literature review and research comprehension. It enables faster understanding of scholarly content by organizing key information in a consistent, readable format. Built with React, Node.js, Express, MongoDB, and the Gemini API.
-  <br/>
-  <br/>
-  <strong>WildLifeHub : </strong> 
-  A community-driven platform for wildlife enthusiasts to connect, explore animal information, and stay updated with the latest news related to wildlife and conservation. It provides a centralized space to learn about animals, share interests, and engage with wildlife-related content. Built with React, Node.js, Express, and MongoDB.
-  <br/>
-  <br/>
-  <strong>DonorConnect : </strong> 
-  A platform designed to connect donors with recipients, enabling efficient discovery, communication, and coordination for donation needs. It provides a centralized system to streamline donor–recipient matching and improve accessibility to essential resources. Built with React, Node.js, Express, and MongoDB.
-  <br/>
-  <br/>
-  <strong>MoneyIQ : </strong>
-  MoneyIQ is an AI-powered finance manager built with Next.js (JavaScript), Prisma, Clerk, Arcjet, and Inngest. It helps users track budgets, log transactions, receive reminders, and get monthly AI-driven financial insights.
+
+  <!-- Systems / Low-Level -->
+  <strong><a href="https://github.com/Prachiti27/KiteLLM">KiteLLM</a> :</strong> From-scratch transformer-based LLM implementing attention and training pipeline.<br/><br/>
+
+  <strong><a href="https://github.com/Prachiti27/MiniRedis">MiniRedis</a> :</strong> Redis-like in-memory key–value store built from scratch in C++.<br/><br/>
+
+  <strong><a href="https://github.com/Prachiti27/KiteDB">KiteDB</a> :</strong> Lightweight database engine exploring storage, indexing, and query fundamentals.<br/><br/>
+
+  <strong><a href="https://github.com/Prachiti27/Shell-in-Cpp">Shell</a> :</strong> Unix-like shell implemented in C++ supporting command execution and process handling.<br/><br/>
+
+  <strong><a href="https://github.com/Prachiti27/Kite">Kite</a> :</strong> Custom interpreted programming language built in Java.<br/><br/>
+
+
+  <!-- AI / Intelligent Systems -->
+  <strong><a href="https://github.com/Prachiti27/AI-Data-Analyst-Agent">AI Data Analyst</a> :</strong> Agent that performs automated data analysis, insights generation, and visualization.<br/><br/>
+
+  <strong><a href="https://github.com/Prachiti27/AI-task-planning-agent">AI Task Planning Agent</a> :</strong> AI agent that converts goals and time into structured, priority-based task plans.<br/><br/>
+
+  <strong><a href="https://github.com/Prachiti27/PaperMind">PaperMind</a> :</strong> AI system that transforms research papers into structured, readable summaries.<br/><br/>
+
+  <strong><a href="https://github.com/Prachiti27/Machine-learning-Algorithms-Implementation">ML Algorithms</a> :</strong> Machine learning and deep learning algorithms implemented from scratch using NumPy.<br/><br/>
+
+  <strong><a href="https://github.com/Prachiti27/CryptoTrack">CryptoTrack</a> :</strong> Cryptocurrency tracker with LSTM-based price prediction.<br/><br/>
+
+
+  <!-- Backend / Full Stack -->
+  <strong><a href="https://github.com/Prachiti27/KiteAPI">KiteAPI</a> :</strong> Minimal backend framework for building scalable server-side applications.<br/><br/>
+
+  <strong><a href="https://github.com/Prachiti27/Path-Visualizer">Path Visualizer</a> :</strong> Interactive visualization of graph algorithms like BFS, DFS, Dijkstra, and A*.<br/><br/>
+
+  <strong><a href="https://github.com/Prachiti27/MoneyIQ">MoneyIQ</a> :</strong> AI-powered finance manager for budgeting, tracking, and insights.<br/><br/>
+
+  <strong><a href="https://github.com/Prachiti27/DonorConnect">DonorConnect</a> :</strong> Platform for matching donors with recipients and enabling communication.<br/><br/>
+
+  <strong><a href="https://github.com/Prachiti27/WildLifeHub">WildLifeHub</a> :</strong> Community platform for wildlife exploration, news, and conservation content.<br/><br/>
+
 </p>
+
 <hr/>
-<h3>🔹Projects build to fuel my engineering curosity</h3>
-<p>
-  <strong>KiteAPI : </strong> 
-  Basic backend framework implemented in Python to serve as a starter template for building scalable and maintainable server-side applications.
-  <br/>
-  <br/>
-  <strong>MiniRedis : </strong> 
-  MiniRedis is a minimal, Redis-like in-memory key–value database built from scratch in C++. The project is designed purely for learning purposes, to understand how systems like Redis work at a low level.
-  <br/>
-  <br/>
-  <strong>KiteDB : </strong>
-  A from-scratch implementation of a lightweight database system built to understand the fundamentals of database internals
-  <br/>
-  <br/>
-  <strong>KiteLLM : </strong>
-  KiteLLM is a Python-based implementation of a large language model built from scratch to explore transformer internals, attention mechanisms, and model training workflows.
-  <br/>
-  <br/>
-  <strong>ML algorithms : </strong>
-  Implemented machine learning and deep learning algorithms from scratch using python and numpy.
-</p>
-<hr/>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prachiti27&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
