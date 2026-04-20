@@ -9,7 +9,6 @@
   <a href="https://www.linkedin.com/in/prachiti-kitey-24b348281/">LinkedIn</a> •
   <a href="mailto:prachitikitey86@gmail.com">Email</a>
 </p>
-<hr/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prachiti27&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
