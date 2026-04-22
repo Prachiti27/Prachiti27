@@ -1,6 +1,6 @@
 <h1 align="center">Prachiti Kitey</h1>
 <p align="center">
-  Backend • Systems • AI • Low-Level Engineering (for fun)
+  Backend • Systems • AI
 </p>
 
 <h3 align="center">Connect With Me</h3>
