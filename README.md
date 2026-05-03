@@ -11,7 +11,6 @@
 </p>
 <hr style="width:60%; margin:20px auto; border:none; border-top:0.5px solid #e0e0e0;">
 <h3>Projects</h3>
-<hr style="width:60%; margin:20px auto; border:none; border-top:0.5px solid #e0e0e0;">
 <p><a href="https://github.com/Prachiti27/KiteLLM">KiteLLM: </a>LLM implementation from scratch</p>
 <p><a href="https://github.com/Prachiti27/MiniRedis">MiniRedis: </a>A minimal Redis-like in-memory data store built from scratch </p>
 <p><a href="https://github.com/Prachiti27/Shell-in-Cpp">Shell: </a>A lightweight Unix-like shell built from scratch</p>
