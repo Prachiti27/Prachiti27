@@ -3,7 +3,6 @@
   Backend • Systems • AI
 </p>
 
-<h3 align="center">Connect With Me</h3>
 <p align="center">
   <a href="https://github.com/Prachiti27">GitHub</a> •
   <a href="https://www.linkedin.com/in/prachiti-kitey-24b348281/">LinkedIn</a> •
