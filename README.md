@@ -14,7 +14,7 @@
 <p><a href="https://github.com/Prachiti27/KiteLLM">KiteLLM: </a>LLM implementation from scratch</p>
 <p><a href="https://github.com/Prachiti27/MiniRedis">MiniRedis: </a>A minimal Redis-like in-memory data store built from scratch </p>
 <p><a href="https://github.com/Prachiti27/Shell-in-Cpp">Shell: </a>A lightweight Unix-like shell built from scratch</p>
-<p><a href="https://github.com/Prachiti27/Machine-learning-Algorithms-Implementation">ML Algorithms: </a>Machine Learning Algorithm implementation from scratch</p>
+<p><a href="https://github.com/Prachiti27/AI-from-scratch">AI from Scratch: </a>AI-related concepts implemented from scratch</p>
 <p><a href="https://github.com/Prachiti27/AI-Playground">AI: </a>AI-powered mini projects(GenAI, Agentic AI, finetuning,etc)</p>
 <p><a href="https://github.com/Prachiti27/Path-Visualizer">Path Visualizer: </a>Interactive visualization tool for BFS, DFS, Dijkstra, and A* algorithms</p>
 <p><a href="https://github.com/Prachiti27/KiteAPI">KiteAPI: </a>Basic backend framework buit using python</p>
