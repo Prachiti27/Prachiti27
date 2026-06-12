@@ -23,6 +23,7 @@
 <p><a href="https://github.com/Prachiti27/DonorConnect">DonorConnect: </a>Web application for finding nearest donor available</p>
 <p><a href="https://github.com/Prachiti27/AI-Data-Analyst-Agent">AI Data Analyst: </a>AI-powered web application which provides data insights</p>
 <p><a href="https://github.com/Prachiti27/ChatBox">ChatBox: </a>Real-time Chat application build using websockets</p>
+<p><a href="https://github.com/Prachiti27/Multithreaded-Server">Multi-threaded Server: </a>A lightweight multi-threaded server built using java.</p>
 <p><a href="https://github.com/Prachiti27/MoneyIQ">MoneyIQ: </a>Finance manager with AI powered insights every month</p>
 <p><a href="https://github.com/Prachiti27/space-mission-explorer">Space Explorer: </a>Space Mission Explorer is a web application that showcases featured space missions with detailed information and interactive features.</p>
 <hr style="width:60%; margin:20px auto; border:none; border-top:0.5px solid #e0e0e0;">
