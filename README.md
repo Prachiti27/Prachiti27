@@ -12,7 +12,7 @@
 <h3>Projects</h3>
 <p><a href="https://github.com/Prachiti27/CS-implementations">CS Implementations: </a>Implementing core computer science concepts, algorithms, and systems from scratch in C++.</p>
 <p><a href="https://github.com/Prachiti27/KiteLLM">KiteLLM: </a>LLM implementation from scratch</p>
-<p><a href="https://github.com/Prachiti27/Regex-Engine">Regex-Enginer: A simple regex processing system built in python.</a></p>
+<p><a href="https://github.com/Prachiti27/Regex-Engine">Regex-Enginer: </a>A simple regex processing system built in python.</p>
 <p><a href="https://github.com/Prachiti27/MiniRedis">MiniRedis: </a>A minimal Redis-like in-memory data store built from scratch </p>
 <p><a href="https://github.com/Prachiti27/Shell-in-Cpp">Shell: </a>A lightweight Unix-like shell built from scratch</p>
 <p><a href="https://github.com/Prachiti27/AI-from-scratch">AI from Scratch: </a>AI-related concepts implemented from scratch</p>
