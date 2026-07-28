@@ -10,8 +10,8 @@
 </p>
 <hr style="width:60%; margin:20px auto; border:none; border-top:0.5px solid #e0e0e0;">
 <h3>Projects</h3>
-<p><a href="https://github.com/Prachiti27/CS-implementations">CS Implementations: </a>Implementing core computer science concepts, algorithms, and systems from scratch in C++.</p>
 <p><a href="https://github.com/Prachiti27/KiteLLM">KiteLLM: </a>LLM implementation from scratch</p>
+<p><a href="https://github.com/Prachiti27/Memory-Allocator">Memory Allocator: </a>A memory allocator implemented in C.</p>
 <p><a href="https://github.com/Prachiti27/Regex-Engine">Regex-Enginer: </a>A simple regex processing system built in python.</p>
 <p><a href="https://github.com/Prachiti27/MiniRedis">MiniRedis: </a>A minimal Redis-like in-memory data store built from scratch </p>
 <p><a href="https://github.com/Prachiti27/Shell-in-Cpp">Shell: </a>A lightweight Unix-like shell built from scratch</p>
@@ -19,6 +19,7 @@
 <p><a href="https://github.com/Prachiti27/Path-Visualizer">Path Visualizer: </a>Interactive visualization tool for BFS, DFS, Dijkstra, and A* algorithms</p>
 <p><a href="https://github.com/Prachiti27/KiteAPI">KiteAPI: </a>Basic backend framework buit using python</p>
 <p><a href="https://github.com/Prachiti27/PaperMind">PaperMind: </a>AI-powered web application which helps in reading research papers</p>
+<p><a href="https://github.com/Prachiti27/CS-implementations">CS Implementations: </a>Implementing core computer science concepts, algorithms, and systems from scratch in C++.</p>
 <p><a href="https://github.com/Prachiti27/WildlifeHub">Wildlife HUb: </a>Community-driven platform for wildlife enthusiasts</p>
 <p><a href="https://github.com/Prachiti27/DonorConnect">DonorConnect: </a>Web application for finding nearest donor available</p>
 <p><a href="https://github.com/Prachiti27/AI-Data-Analyst-Agent">AI Data Analyst: </a>AI-powered web application which provides data insights</p>
