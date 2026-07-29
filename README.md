@@ -19,7 +19,6 @@
 <p><a href="https://github.com/Prachiti27/Path-Visualizer">Path Visualizer: </a>Interactive visualization tool for BFS, DFS, Dijkstra, and A* algorithms</p>
 <p><a href="https://github.com/Prachiti27/KiteAPI">KiteAPI: </a>Basic backend framework buit using python</p>
 <p><a href="https://github.com/Prachiti27/PaperMind">PaperMind: </a>AI-powered web application which helps in reading research papers</p>
-<p><a href="https://github.com/Prachiti27/CS-implementations">CS Implementations: </a>Implementing core computer science concepts, algorithms, and systems from scratch in C++.</p>
 <p><a href="https://github.com/Prachiti27/WildlifeHub">Wildlife HUb: </a>Community-driven platform for wildlife enthusiasts</p>
 <p><a href="https://github.com/Prachiti27/DonorConnect">DonorConnect: </a>Web application for finding nearest donor available</p>
 <p><a href="https://github.com/Prachiti27/AI-Data-Analyst-Agent">AI Data Analyst: </a>AI-powered web application which provides data insights</p>
