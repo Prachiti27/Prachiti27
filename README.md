@@ -11,6 +11,7 @@
 <hr style="width:60%; margin:20px auto; border:none; border-top:0.5px solid #e0e0e0;">
 <h3>Projects</h3>
 <p><a href="https://github.com/Prachiti27/KiteLLM">KiteLLM: </a>LLM implementation from scratch</p>
+<p><a href="https://github.com/Prachiti27/File-sharer">PeerLink: </a>A p2p filesharer built using java and nextjs.</p>
 <p><a href="https://github.com/Prachiti27/Memory-Allocator">Memory Allocator: </a>A memory allocator implemented in C.</p>
 <p><a href="https://github.com/Prachiti27/Regex-Engine">Regex-Enginer: </a>A simple regex processing system built in python.</p>
 <p><a href="https://github.com/Prachiti27/MiniRedis">MiniRedis: </a>A minimal Redis-like in-memory data store built from scratch </p>
