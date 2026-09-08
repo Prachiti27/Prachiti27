@@ -1,6 +1,6 @@
 <h1 align="center">Prachiti Kitey</h1>
 <p align="center">
-  Backend • Systems • AI
+  Backend • AI • Low level • Systems
 </p>
 
 <p align="center">
@@ -17,6 +17,7 @@
 <p><a href="https://github.com/Prachiti27/MiniRedis">MiniRedis: </a>A minimal Redis-like in-memory data store built from scratch </p>
 <p><a href="https://github.com/Prachiti27/Shell-in-Cpp">Shell: </a>A lightweight Unix-like shell built from scratch</p>
 <p><a href="https://github.com/Prachiti27/AI-from-scratch">AI from Scratch: </a>AI-related concepts implemented from scratch</p>
+<p><a href="https://github.com/Prachiti27/CS-implementations">CS from Scratch: </a>Implementing CS fundamentals from scratch in C++.</p>
 <p><a href="https://github.com/Prachiti27/Path-Visualizer">Path Visualizer: </a>Interactive visualization tool for BFS, DFS, Dijkstra, and A* algorithms</p>
 <p><a href="https://github.com/Prachiti27/KiteAPI">KiteAPI: </a>Basic backend framework buit using python</p>
 <p><a href="https://github.com/Prachiti27/PaperMind">PaperMind: </a>AI-powered web application which helps in reading research papers</p>
