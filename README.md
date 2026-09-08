@@ -27,6 +27,7 @@
 <p><a href="https://github.com/Prachiti27/ChatBox">ChatBox: </a>Real-time Chat application build using websockets</p>
 <p><a href="https://github.com/Prachiti27/Multithreaded-Server">Multi-threaded Server: </a>A lightweight multi-threaded server built using java.</p>
 <p><a href="https://github.com/Prachiti27/MoneyIQ">MoneyIQ: </a>Finance manager with AI powered insights every month</p>
+<p><a href="https://github.com/Prachiti27/Video-Summarizer">YT-summarizer: </a>YT video summarizer built in python</p>
 <p><a href="https://github.com/Prachiti27/space-mission-explorer">Space Explorer: </a>Space Mission Explorer is a web application that showcases featured space missions with detailed information and interactive features.</p>
 <hr style="width:60%; margin:20px auto; border:none; border-top:0.5px solid #e0e0e0;">
 <p align="center">
