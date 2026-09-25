@@ -30,7 +30,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/Prachiti27/ml-library">myml</a>
+  <a href="https://github.com/Prachiti27/ml-library">myml:</a>
   A machine learning library built from scratch.
 </p>
 
