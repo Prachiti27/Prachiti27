@@ -30,6 +30,11 @@
 </p>
 
 <p>
+  <a href="https://github.com/Prachiti27/ml-library">myml</a>
+  A machine learning library built from scratch.
+</p>
+
+<p>
   <a href="https://github.com/Prachiti27/MiniRedis">MiniRedis:</a>
   A minimal Redis-inspired in-memory key-value store built from scratch.
 </p>
