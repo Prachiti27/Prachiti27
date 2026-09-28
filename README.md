@@ -65,11 +65,6 @@
 </p>
 
 <p>
-  <a href="https://github.com/Prachiti27/CS-implementations">CS from Scratch:</a>
-  Implementations of core computer science concepts and algorithms in C++.
-</p>
-
-<p>
   <a href="https://github.com/Prachiti27/Path-Visualizer">Path Visualizer:</a>
   Interactive visualization of BFS, DFS, Dijkstra's, and A* pathfinding algorithms.
 </p>
