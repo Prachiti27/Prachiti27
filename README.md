@@ -20,6 +20,11 @@
 </p>
 
 <p>
+  <a href="https://github.com/Prachiti27/dfs">DFS</a>
+  A distributed file store written from scratch in C++.
+</p>
+
+<p>
   <a href="https://github.com/Prachiti27/Research-Papers-From-Scratch">Research Papers:</a>
   Implementations of research papers built from scratch to understand their core ideas.
 </p>
