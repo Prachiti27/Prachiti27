@@ -20,7 +20,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/Prachiti27/dfs">DFS</a>
+  <a href="https://github.com/Prachiti27/dfs">DFS:</a>
   A distributed file store written from scratch in C++.
 </p>
 
