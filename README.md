@@ -25,11 +25,6 @@
 </p>
 
 <p>
-  <a href="https://github.com/Prachiti27/Research-Papers-From-Scratch">Research Papers:</a>
-  Implementations of research papers built from scratch to understand their core ideas.
-</p>
-
-<p>
   <a href="https://github.com/Prachiti27/Memory-Allocator">Memory Allocator:</a>
   A custom memory allocator implemented from scratch in C.
 </p>
