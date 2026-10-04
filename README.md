@@ -60,6 +60,11 @@
 </p>
 
 <p>
+  <a href="https://github.com/Prachiti27/Research-Papers-From-Scratch">Research Papers:</a>
+  Contains list of research papers which I read and implement for learning.
+</p>
+
+<p>
   <a href="https://github.com/Prachiti27/AI-from-scratch">AI from Scratch:</a>
   Implementations of fundamental machine learning and AI algorithms from scratch.
 </p>
