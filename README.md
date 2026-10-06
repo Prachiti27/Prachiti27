@@ -30,6 +30,11 @@
 </p>
 
 <p>
+  <a href="https://github.com/Prachiti27/enlib">Enlib:</a>
+  Simple encryption library written in C.
+</p>
+
+<p>
   <a href="https://github.com/Prachiti27/ml-library">myml:</a>
   A machine learning library built from scratch.
 </p>
