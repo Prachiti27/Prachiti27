@@ -40,6 +40,11 @@
 </p>
 
 <p>
+  <a href="https://github.com/Prachiti27/CS-implementations">CS from scratch:</a>
+  Implementing Computer Science Concepts in C++.
+</p>
+
+<p>
   <a href="https://github.com/Prachiti27/MiniRedis">MiniRedis:</a>
   A minimal Redis-inspired in-memory key-value store built from scratch.
 </p>
