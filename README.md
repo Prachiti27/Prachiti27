@@ -110,11 +110,6 @@
 </p>
 
 <p>
-  <a href="https://github.com/Prachiti27/Kite">Kite:</a>
-  A custom programming language built in java.
-</p>
-
-<p>
   <a href="https://github.com/Prachiti27/MoneyIQ">MoneyIQ:</a>
   A personal finance manager with AI-powered monthly insights.
 </p>
