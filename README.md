@@ -60,6 +60,11 @@
 </p>
 
 <p>
+  <a href="https://github.com/Prachiti27/Compiler">Compiler: </a>
+  A compiler generating x86 assembly written in C.
+</p>
+
+<p>
   <a href="https://github.com/Prachiti27/Multithreaded-Server">Multi-threaded Server:</a>
   A concurrent server built in Java using multiple worker threads.
 </p>
