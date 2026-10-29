@@ -50,11 +50,6 @@
 </p>
 
 <p>
-  <a href="https://github.com/Prachiti27/CS-implementations">CS from Scratch:</a>
-  Implementing CS concepts from scratch in C++.
-</p>
-
-<p>
   <a href="https://github.com/Prachiti27/Shell-in-Cpp">Shell:</a>
   A lightweight Unix-like shell implemented from scratch in C++.
 </p>
